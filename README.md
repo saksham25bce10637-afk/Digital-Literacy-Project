@@ -78,10 +78,10 @@ Researched UPI and online payment fraud in India, wrote a detailed case study on
 
 ## Important Links
 
-- 🐙 **GitHub Profile:** *(Add your GitHub profile URL here)*
-- 💼 **LinkedIn:** *(Add your LinkedIn profile URL here)*
-- 📊 **Kaggle:** *(Add your Kaggle profile URL here)*
-- 📋 **Google Form Quiz:** *(Add your Google Form link here)*
+- 🐙 **GitHub Profile:** *(https://github.com/saksham25bce10637-afk)*
+- 💼 **LinkedIn:** *(www.linkedin.com/in/saksham-biyani-4a9109244)*
+- 📊 **Kaggle:** *(https://www.kaggle.com/saksham200716)*
+- 📋 **Google Form Quiz:** *(https://docs.google.com/forms/d/e/1FAIpQLSf3c97fxbvW06EwEVQt2slkX6YSoPTQ9xn5ALYqzggosQwwYw/viewform?usp=dialog)*
 
 ---
 
